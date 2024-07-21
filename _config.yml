@@ -2,3 +2,8 @@ remote_theme: pages-themes/midnight@v0.2.0
 title: Testing githuber - Jackie
 description: Testing
 show_downloads: true
+github:
+  owner_url: https://github.com/arkx3
+  owner_name: Jackie
+  repository_name: Test project
+  project_tagline: Testing what github hosting has to offer and idk maybe comeback to learning html again
